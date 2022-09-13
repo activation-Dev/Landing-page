@@ -46,9 +46,13 @@ btnQuemSomosNos.addEventListener('click', function() {
 
 //
 
-botaoProdutoDestaque.onclick = function(){
+function botaoProdutoDestaque(){
     window.open("https://razor.com.br/produto/prodigy-xp-960g35/")
 }
+
+//botaoProdutoDestaque.onclick = function(){
+//    window.open("https://razor.com.br/produto/prodigy-xp-960g35/")
+//}
 
 botaoOrcamentos.onclick = function(){
     window.open("https://workstation.razor.com.br")
